@@ -21,7 +21,7 @@
        <div class="card-body disabled">
          <form action="" style="font-size:15px; text-align:left;"> 
            <label for="">To</label>
-           <input type="text" name="" class="form-control">
+           <input type="text" name="" class="form-control-1">
          </form>
          <form action="" style="font-size:15px; text-align:left;"> 
            <label for="">Subject</label>
@@ -51,7 +51,7 @@
 </template>
 
 <style >
-   .download-btn {
+  .download-btn {
     margin-left: -21%;
     /* margin-top: -68px; */
   }

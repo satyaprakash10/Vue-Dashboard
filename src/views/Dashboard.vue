@@ -19,7 +19,7 @@
           <div class="card-header bg-white" >
             <h1 style="text-align:left; margin-top:10px;">Sales OverView..
               <a href="" style=" font-size:12px;  text-decoration:none;">Apple admin vs Pixel admin.</a>
-              <div class="form-group" style="  " >
+              <div class="form-group1" style="  " >
                 <select v-model="selected" style="font-size:20px;">
                   <!-- <option disabled value="">Please select one</option> -->
                   <option>This Year</option>
@@ -250,7 +250,7 @@ export default {
     margin-top:30px;
     /* overflow-x: hidden; */
   }
-  .form-group{
+  .form-group1{
     margin-left: 80%; margin-top:-18px; 
   }
   @media screen and (max-width:786px) {
@@ -278,7 +278,7 @@ export default {
     .box-2 {
       margin-top:26px;
     }
-    .form-group{
+    .form-group1{
       margin-left: 2px;
       margin-top: 0;
     }

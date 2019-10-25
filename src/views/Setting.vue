@@ -26,7 +26,7 @@
                      <label class="col-md-2 form-control-label" style="text-align:left; font-size:15px;">Facebook Page Url</label>
                      <div class="col-md-10">
                        <div class="input-icon">
-                         <i class="icon-fa  fa fa-facebook"></i>
+                         <i class=" fa fa-facebook"></i>
                          <input type="text" name="facebook" id="" value="https://facebook.com/teamcpbd13337">
                        </div>
                      </div>
@@ -35,7 +35,7 @@
                      <label class="col-md-2 form-control-label"  style="text-align:left; font-size:15px;">Google Plus Url</label>
                      <div class="col-sm-10">
                        <div class="input-icon">
-                         <i class="icon-fa   fa fa-google-plus"></i>
+                         <i class="  fa fa-google-plus"></i>
                          <input type="text" name="facebook" id="" value="https://plus.gogle.com/u/0/117458883611785198963">
                        </div>
                      </div>
@@ -44,7 +44,7 @@
                      <label class="col-md-2 form-control-label " style="text-align:left; font-size:15px;"> Twitter Url</label>
                      <div class="col-md-10">
                        <div class="input-icon">
-                         <i class="icon-fa fa fa-twitter"></i>
+                         <i class="  fa fa-twitter"></i>
                          <input type="text" name="twitter" id="" value="https://facebook.com/teamcpbd13337">
                        </div>
                      </div>
